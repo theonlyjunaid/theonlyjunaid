@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [wrapyshop](https://wrapyshop.in/)
 
-- 🌱 I’m currently learning **typescript, langchain**
+- 🌱 I’m currently learning **solidity, langchain**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://junaidmalik.com/)
 
