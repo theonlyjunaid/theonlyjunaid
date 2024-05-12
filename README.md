@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **solidity, langchain**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://junaidmalik.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://read.cv/junaidmalik)
 
 - 📝 I regularly write articles on [My Blogs](https://blog.junaidmalik.com/)
 
